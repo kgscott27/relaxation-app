@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/relaxation-app/static/css/main.1e981502.chunk.css",
+    "main.js": "/relaxation-app/static/js/main.6fcf0df0.chunk.js",
+    "main.js.map": "/relaxation-app/static/js/main.6fcf0df0.chunk.js.map",
+    "runtime-main.js": "/relaxation-app/static/js/runtime-main.fb1a3554.js",
+    "runtime-main.js.map": "/relaxation-app/static/js/runtime-main.fb1a3554.js.map",
+    "static/js/2.62848f6a.chunk.js": "/relaxation-app/static/js/2.62848f6a.chunk.js",
+    "static/js/2.62848f6a.chunk.js.map": "/relaxation-app/static/js/2.62848f6a.chunk.js.map",
+    "static/js/3.c735291e.chunk.js": "/relaxation-app/static/js/3.c735291e.chunk.js",
+    "static/js/3.c735291e.chunk.js.map": "/relaxation-app/static/js/3.c735291e.chunk.js.map",
+    "index.html": "/relaxation-app/index.html",
+    "precache-manifest.9ba6f18bee4ade7c4b1123074c398b6b.js": "/relaxation-app/precache-manifest.9ba6f18bee4ade7c4b1123074c398b6b.js",
+    "service-worker.js": "/relaxation-app/service-worker.js",
+    "static/css/main.1e981502.chunk.css.map": "/relaxation-app/static/css/main.1e981502.chunk.css.map",
+    "static/js/2.62848f6a.chunk.js.LICENSE.txt": "/relaxation-app/static/js/2.62848f6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1a3554.js",
+    "static/js/2.62848f6a.chunk.js",
+    "static/css/main.1e981502.chunk.css",
+    "static/js/main.6fcf0df0.chunk.js"
+  ]
+}
